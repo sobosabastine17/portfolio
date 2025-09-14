@@ -46,7 +46,6 @@
                 </div>
             </a>
         </div>
-
         <!-- Copyright -->
         <p class="text-xs text-gray-500">
             © <span id="year"></span> Sabastine Sobo • Built with

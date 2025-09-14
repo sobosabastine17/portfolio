@@ -53,7 +53,7 @@
           <!-- Resume Button (Desktop) -->
           <div class="hidden md:flex">
             <a
-              href="assets/resume-Sobo-doe.pdf"
+              href="assets/sabastine_CV.pdf"
               target="_blank"
               class="bg-[#7a00cc] hover:bg-[#e60047] text-white px-5 py-2 rounded-lg font-semibold shadow-lg transform hover:scale-105 transition-all duration-300"
             >
