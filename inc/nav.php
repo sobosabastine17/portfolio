@@ -127,11 +127,11 @@
 
         <!-- Resume Button (Mobile) -->
         <a
-          href="assets/resume-Sobo-doe.pdf"
+          href="assets/sabastine_CV.pdf"
           target="_blank"
           class="inline-block bg-[#7a00cc] hover:bg-[#e60047] text-white py-2 px-4 rounded-md transition duration-300 shadow-md"
         >
-          Resume
+          Resume(CV)
         </a>
       </div>
     </nav>
